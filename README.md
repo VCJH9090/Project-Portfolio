@@ -9,7 +9,7 @@ Collaborated with two members to create a prosthetic knee joint through the usag
 
 The kinematics of the knee joint was designed using a method called "<b>two-position synthesis</b>". 
 
-<center> <img src=".\images\two-position-knee.png" width="100%" /> </center>
+<center> <img src=".\images\two-position-knee.png" width="70%" /> </center>
 
 Essentially, created a four bar linkage to mimic a biological knee joint leading to a developed concept design.
 
