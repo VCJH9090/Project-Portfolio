@@ -1,7 +1,7 @@
 # Projects-Portfolio
 
 ## Design of an Improved Knee Joint for Simple Prosthesis
-### Background
+### Backgroundsds
 <b>Kinematics and Machine Design Laboratory</b> is a class taken in University of Nebraska Lincoln. The final project was about creating an improved design of a knee joint of a prosthetic leg. 
 
 ### Details
