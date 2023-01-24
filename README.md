@@ -13,7 +13,7 @@ The kinematics of the knee joint was designed using a method called "<b>two-posi
 
 Essentially, created a four bar linkage to mimic a biological knee joint leading to a developed concept design.
 
-<center> <img src=".\images\concept_knee.png" width="100%" /> </center>
+<center> <img src=".\images\concept_knee.png" width="70%" /> </center>
 
 After a few iterations of modifications and considerations, a finalized design of a nine bar linkage prosthetic knee joint was created within SolidWorks.
 
@@ -31,7 +31,7 @@ Collaborated with two other volunteered members with the ATS company to build an
 
 Built a real-time tracker with utilizing Arduino, JavaScript, HTML, and SolidWorks to establish links between ESP8266 Wi-Fi module, WebSocket, UNIX time zone, and created website within three to four months within a semester. 
 
-<center> <img src=".\images\prototype_ATS.png" width="100%" /> </center>
+<center> <img src=".\images\prototype_ATS.png" width="60%" /> </center>
 
 ### Video Demo
 [Link to video demo](https://drive.google.com/file/d/1Tc8kyyhu7NwwhJUKT2mWUH6ktzwspiKS/view?usp=share_link).
