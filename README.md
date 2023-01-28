@@ -2,7 +2,7 @@
 
 ## Design of an Improved Knee Joint for Simple Prosthesis
 ### Background
-<b>Kinematics and Machine Design Laboratory</b> is a class taken in University of Nebraska Lincoln. The final project was about creating an improved design of a knee joint of a prosthetic leg. 
+<b>Kinematics and Machine Design Laboratory</b> is a class taken at the University of Nebraska Lincoln. The final project was about creating an improved design of a knee joint of a prosthetic leg. 
 
 ### Details
 Collaborated with two members to create a prosthetic knee joint through the usage of SolidWorks only with references from research papers and websites.
@@ -41,10 +41,10 @@ Built a real-time tracker with utilizing Arduino, JavaScript, HTML, and SolidWor
 
 ## Light Following Robotic Arm
 ### Background
-<b>Robotics Kinematics & Design</b> is a class taken in University of Nebraska-Lincoln. The requirement for the final project was a hypothesis-driven to touch upon the current-challenges in the robotics field.
+<b>Robotics Kinematics & Design</b> is a class taken at the University of Nebraska-Lincoln. The requirement for the final project was a hypothesis-driven to touch upon the current-challenges in the robotics field.
 
 ### Details
-Through the usage of photoresistor, the robotic arm would have the ability to move towards a target payload by detecting light source without the requiring a computationally expensive computer vison system.
+Through the usage of photoresistor, the robotic arm would have the ability to move towards a target payload by detecting light source without the requiring a computationally expensive computer vision system.
 
 Collaborated with two members to formulate Arduino code to program robotic arm to move iteratively towards the light source with a photoresistor attached on the end-effector. 
 
@@ -57,12 +57,12 @@ Using an iterative algorithm, utilized x, y, and z gradients to move the end-eff
 
 ## Path-Guiding Multi-Robotics System
 ### Background 
-<b>Cyber Physical System</b> is a class taken in Boston University. The final project was about creating a "cyber" and "physical" system with a purpose and motivation to tackle a particular problem in a real scenario. 
+<b>Cyber Physical System</b> is a class taken at the Boston University. The final project was about creating a "cyber" and "physical" system with a purpose and motivation to tackle a particular problem in a real scenario. 
 
 ### Detail
 Collaborated with three members to develop a "Tele-Operating" agent to guide a "Task" agent to its optimal parking spot, hosting electrical charging station for electric vehicles within an unknown parking lot environment.
 
-Initiated a robotics system with ROSMASTER X3 (Yahboom) and implemented ROS Melodic to excute SLAM, move-base navigation stack, and QR camera detection.
+Initiated a robotics system with ROSMASTER X3 (Yahboom) and implemented ROS Melodic to execute SLAM, move-base navigation stack, and QR camera detection.
 
 <b>Full descriptions and details</b> and <b>video demo</b> can be found through this github repository:
 
